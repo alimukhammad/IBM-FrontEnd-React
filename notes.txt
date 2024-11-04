@@ -1,0 +1,12 @@
+CRA Tool
+    npx creae-react-app my-app
+
+Vita Tool
+    npm create vite@latest
+
+Project structure
+
+Node_model: 
+    dependencies
+Public: 
+    static files/img
